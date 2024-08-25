@@ -1,6 +1,6 @@
 # MUSIC STREAMING SERVICES
 
-The project is collaboratively developed with members Team Lead [I.PARDHIV SAI KUMAR](https://github.com/SaiPardhiv) and Team Members [P.HARSHAVARDANA REDDY](https://github.com/harshavardana-reddy) and [K.SANJAY]()
+The project is collaboratively developed with members Team Lead [I.PARDHIV SAI KUMAR](https://github.com/SaiPardhiv) and Team Members [P.HARSHAVARDANA REDDY](https://github.com/harshavardana-reddy) and [K.SANJAY](https://github.com/sanjayKamisetty27)
 
 The project is built using Python-Django and a PostgreSQL database.The program offers a seamless music experience.
 
